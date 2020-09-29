@@ -1,6 +1,7 @@
 # SQUIRLEES WEBPAGE
 Vefsíða um íkorna
 
-* Live version squirlees1234.surge.sh
+
+* Live version https://www.squirlees1234.surge.sh
 
 
