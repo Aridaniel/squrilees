@@ -2,6 +2,6 @@
 Vefsíða um íkorna
 
 
-* Live version https://www.squirlees1234.surge.sh
+* Live version https://squirlees1234.surge.sh
 
 
